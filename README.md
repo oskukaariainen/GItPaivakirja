@@ -1,3 +1,4 @@
 # git-oppimispaivakirja
 
-Tämä on kurssin oppimispäiväkirja.
+Tämä on kurssin Git-versionhallinta - SOF013AS2A-3002 oppimispäiväkirja.
+Tekijä: Osku Kääriäinen
