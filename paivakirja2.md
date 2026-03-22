@@ -13,8 +13,7 @@ Git ei tunnu enää ihan yhtä pelottavalta kuin ennen tätä kurssia.
 
 | Komento | Kuvaus |
 | --------| ------ |
-|git remote add origin (linkki) |Määrittää paikallisen repositorion etärepositoiroksi nimeltä origin, jonka osoite on annettu linkki 
- |
+| git remote add origin (linkki) | Määrittää paikallisen repositorion etärepositoiroksi nimeltä origin, jonka osoite on annettu linkki |
 | git remote -v | Listaa etärepositoriot  |
 | git push -u origin master | Puskee paikallisen repositorion master -haaran githubiin |
 | git fetch | tuo haaran tiedot paikalliseen repositorioon, mutta ei yhdistä sitä |
